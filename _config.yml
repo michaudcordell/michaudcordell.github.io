@@ -16,20 +16,27 @@
 title: Cordell Michaud
 email: 10409047+michaudcordell@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The portfolio site of Cordell Michaud, a computer science student at Arizona State University.
+  Here you can find showcased projects and occasional blog posts about ongoing projects and selected topics. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://michaudcordell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: michaudcordell
 github_username:  michaudcordell
 paginate: 5
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 remote_theme: fongandrew/hydeout
+theme: jekyll-theme-hydeout
+sidebar_home_link: true
+exclude:
+- README.md
+- LICENSE.md
+sidebar-sticky: true
+layout-reverse: false
 plugins:
-  - jekyll-feed
+- jekyll-paginate
+- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

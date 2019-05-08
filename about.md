@@ -2,17 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+sidebar_link: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Cordell Michaud, a second-year computer science student at Arizona State University. 
+This site functions as a showcase of my completed and ongoing personal projects, 
+as well as a blog for selected topics of interest to me.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My primary interests are in robotics (specifically computer vision and control systems), 
+and game development.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find my public repositories at my Github profile: [michaudcordell](https://github.com/michaudcordell)
 
-
-[jekyll-organization]: https://github.com/jekyll
