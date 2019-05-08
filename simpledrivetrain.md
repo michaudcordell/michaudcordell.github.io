@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SimpleDrivetrain
+title: Simple Drivetrain
 permalink: /projects/simpledrivetrain
 ---
 
