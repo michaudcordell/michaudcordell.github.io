@@ -6,7 +6,7 @@ permalink: /projects/lightbringer
 
 Lightbringer is a very short, linear ASCII RPG written in Java in which a priest charged with 
 protecting a village must cleanse the evil which has invaded it. I developed this project as 
-an honors project for my first-year introduction ot programming class.
+an honors project for my first-year introduction to programming class.
 
 Github link: [Lightbringer](https://github.com/michaudcordell/Lightbringer)
 
